@@ -1,6 +1,6 @@
-![Nanobot](docs/header.svg)
+![RhinoGATOR_ai logo](./images/RhinoLogo.jpg)
 
-# Nanobot - Build MCP Agents
+# nanoGATOR - Build MCP Agents [fork of nanobot]
 
 > **Warning**
 > This project is under heavy development and is moving away from its original design and intent. Expect significant breaking changes, architectural shifts, and evolving APIs.
