@@ -1,4 +1,4 @@
-![RhinoGATOR_ai logo](./images/RhinoLogo.jpg)
+![RhinoGATOR_ai logo](./images/RhinoLogo975sq.svg)
 
 # nanoGATOR - Build MCP Agents [fork of nanobot]
 
